@@ -1,6 +1,6 @@
 # Galgje
 
-## Te raden woord
+## Te raden woord 4 letters 
 
 |.|.|.|.|
 |-|-|-|-|
